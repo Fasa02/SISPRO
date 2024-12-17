@@ -142,7 +142,7 @@ header {
   }
   
 header.sticky {
-
+    background: #154880;
     padding: 3% 3%;
     box-shadow: 0 5px 10px rgba(97, 62, 62, 0.05);
   }
@@ -173,7 +173,7 @@ header .navigation li a {
     text-decoration: none;
     color: #bfc3d3;    ;
     font-weight: 300;
-    background-color: #895159;
+    background: linear-gradient(to bottom right, #3D86DB, #898AF9);
     border-radius: 4px;
     padding: 10px 20px;
   }
