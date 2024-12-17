@@ -198,62 +198,6 @@ header.sticky .navigation li a:hover {
     display: flex;
 }
 
-/* Slideshow ZI */
-
-#slideshow{
-    background: linear-gradient( #6EA5E2, #154880);
-}
-
-.slideshow-container {
-    padding-top: 180px;
-    margin-left: 15%;
-    margin-right: 15%;
-    margin-bottom: 20%;
-    position: relative;
-  }
-  
-  .slides {
-    display: none;
-    box-shadow: 2px 2px 7px 1px rgba(0, 0, 0, 0.6);
-  }
-  
-
-  
-
-  /* Sliding animation */
-  .slide-in {
-    animation-name: slide;
-    animation-duration: 4.5s;
-  }
-
-  @keyframes slide {
-    from {
-        opacity: 0.1;
-        transform: translateX(-100%);
-    }
-    to {
-        opacity: 1;
-        transform: translateX(0);
-    }
-  }
-
-  .slide-out {
-    animation-name: slide-out;
-    animation-duration: 4.5s;
-    animation-fill-mode: forwards;
-  }
-
-  @keyframes slide-out {
-    from {
-        opacity: 1;
-        transform: translateX(0);
-    }
-    to {
-        opacity: 0.0;
-        transform: translateX(100%);
-    }
-  }
-
 
 #jenis{
     background: #F0F3F2;
