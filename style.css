@@ -29,13 +29,13 @@ body {
     display: flex;
     justify-content:flex-end;
     align-items: flex-end;
-    padding-right: 18%;
+    padding-right: 15%;
     padding-bottom: 6%;
 }
 
 .banner .content .img {
-    width: 400px;
-    height: 300px;
+    width: 360px;
+    height: 270px;
     background-image: url(IMAGES/1/1x/Asset\ 6.png);
     background-size: cover;
     box-sizing: border-box;
