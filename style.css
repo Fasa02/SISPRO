@@ -29,7 +29,7 @@ body {
     display: flex;
     justify-content:flex-end;
     align-items: flex-end;
-    padding-right: 22%;
+    padding-right: 18%;
     padding-bottom: 6%;
 }
 
@@ -43,7 +43,7 @@ body {
 
 .banner-text {
 	margin-top: 18%;
-    margin-left: 5%;
+    margin-left: 8%;
 }
 
 .banner-text img {
