@@ -28,6 +28,7 @@
     font-size: 1.3em;
     padding: 0.5em 1.8em;
     border-radius: 0.2em;
+    background: #EAEBF6;
   }
   #restart {
     margin-top: 0.9em;
@@ -64,6 +65,10 @@
     padding: 0.4em 1em;
     color: #ffffff;
     max-width: fit-content;
+  }
+
+  .title{
+    width: 50%;
   }
 
   .timer-div {
@@ -159,4 +164,9 @@
       padding: 0.4em 1em;
       color: #ffffff;
     }
+
+    .title{
+      width: 70%;
+    }
+
   }
